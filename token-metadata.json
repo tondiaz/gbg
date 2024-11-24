@@ -9,13 +9,13 @@
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/logo.png",
+        "uri": "https://github.com/tondiaz/gbg/blob/main/gbg.png",
         "type": "image/png"
       }
     ],
     "creators": [
       {
-        "address": "<YOUR_WALLET_ADDRESS>",
+        "address": "6SovoYL4osn3waoxgZaNzWAefbFazVLoT2BbjkLLqvDZ",
         "share": 100
       }
     ]
