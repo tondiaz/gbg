@@ -1,23 +1,14 @@
 {
   "name": "GingerbreadGold",
   "symbol": "GBG",
-  "description": "A festive memecoin for the holidays!",
-  "image": "https://github.com/tondiaz/gbg/blob/db836733440f652d9ec31a305377eab6cc1178e9/gbg.png",  // Replace with your hosted image URL
-  "attributes": [
-    { "trait_type": "Holiday", "value": "Christmas" }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://github.com/tondiaz/gbg/blob/db836733440f652d9ec31a305377eab6cc1178e9/gbg.png",
-        "type": "image/png"
-      }
-    ],
-    "creators": [
-      {
-        "address": "6SovoYL4osn3waoxgZaNzWAefbFazVLoT2BbjkLLqvDZ",
-        "share": 100
-      }
-    ]
-  }
+  "uri": "https://raw.githubusercontent.com/tondiaz/gbg/refs/heads/main/token-metadata.json",
+  "image": "https://raw.githubusercontent.com/tondiaz/gbg/refs/heads/main/gbg.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "6SovoYL4osn3waoxgZaNzWAefbFazVLoT2BbjkLLqvDZ",
+      "share": 100,
+      "verified": true
+    }
+  ]
 }
