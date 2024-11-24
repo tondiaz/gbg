@@ -1,0 +1,24 @@
+{
+  "name": "GingerbreadGold",
+  "symbol": "GBG",
+  "description": "A festive memecoin for the holidays!",
+  "image": "https://example.com/logo.png",  // Replace with your hosted image URL
+  "external_url": "https://example.com",   // Optional website link
+  "attributes": [
+    { "trait_type": "Holiday", "value": "Christmas" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "<YOUR_WALLET_ADDRESS>",
+        "share": 100
+      }
+    ]
+  }
+}
