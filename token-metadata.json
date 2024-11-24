@@ -2,8 +2,8 @@
   "name": "GingerbreadGold",
   "symbol": "GBG",
   "description": "A festive memecoin for the holidays!",
-  "image": "https://example.com/logo.png",  // Replace with your hosted image URL
-  "external_url": "https://example.com",   // Optional website link
+  "image": "https://github.com/tondiaz/gbg/blob/main/gbg.png",  // Replace with your hosted image URL
+  //"external_url": "https://example.com",   // Optional website link
   "attributes": [
     { "trait_type": "Holiday", "value": "Christmas" }
   ],
